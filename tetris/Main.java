@@ -3,6 +3,8 @@
  * and open the template in the editor.
  */
 
+
+// Testing merge features
 // merge conflict
 package tetris;
 import java.net.URL;
