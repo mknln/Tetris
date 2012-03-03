@@ -3,6 +3,7 @@
  * and open the template in the editor.
  */
 
+// merge conflict
 package tetris;
 import java.net.URL;
 import java.applet.*;
